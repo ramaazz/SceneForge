@@ -42,4 +42,7 @@ Measurements:
 Sierpinski recursion depths from 1 to 5 were tested.
 Each depth was measured three times and averaged.
 
+How to Run:
+Open index.html in a browser or run the project using the p5.js Web Editor.
+Use the keyboard controls listed above to navigate between modules.
     
