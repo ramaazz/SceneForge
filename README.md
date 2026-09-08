@@ -27,3 +27,7 @@ Project Features:
 - Transformation order comparison
 - 3D WEBGL view
 - Performance measurements
+
+Seed Information:
+The project uses seed 6656 for deterministic graphics generation.
+    
