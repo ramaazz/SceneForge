@@ -38,4 +38,8 @@ Measurements:
 - Number of transformations
 - Recursion depth
 
+  Experiments:
+Sierpinski recursion depths from 1 to 5 were tested.
+Each depth was measured three times and averaged.
+
     
