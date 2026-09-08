@@ -29,5 +29,13 @@ Project Features:
 - Performance measurements
 
 Seed Information:
-The project uses seed 6656 for deterministic graphics generation.
+The project uses seed 6656 for deterministic graphics generation. 
+
+
+Measurements:
+- Shapes drawn per frame
+- Fractal triangle count
+- Number of transformations
+- Recursion depth
+
     
