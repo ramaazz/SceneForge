@@ -21,3 +21,9 @@ M: Return to menu
 9: Run measurement
 0: Change scene size
      
+Project Features:
+- Seeded random shapes
+- Recursive Sierpinski triangle
+- Transformation order comparison
+- 3D WEBGL view
+- Performance measurements
